@@ -638,6 +638,7 @@ body {
 .footer {
     background-color: var(--color-blue);
     padding-block: 23px;
+    overflow-x: hidden;
 }
 
 .footer__inner {
